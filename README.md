@@ -113,4 +113,24 @@ This project helped me develop hands-on skills with **Windows Server 2022**, esp
 - Deploying and securing server roles like IIS, DNS, and DHCP.
 - Leveraging **Sysmon** for security monitoring and analysis.
 
+Following are the screen shots of the project
+![image](https://github.com/user-attachments/assets/b86d9d12-b404-4dec-b966-32ed2335acb4)
+
+![image](https://github.com/user-attachments/assets/12622de1-7912-480a-91ca-55c5945c9392)
+
+![image](https://github.com/user-attachments/assets/c4ba9eb1-161c-4287-8ec5-a2f4d4838743)
+
+![image](https://github.com/user-attachments/assets/be56e306-a8fe-40ad-8a67-c9dad69d4192)
+
+![image](https://github.com/user-attachments/assets/b082b1f5-ccd7-4e2b-b772-bdbc5593d447)
+
+![image](https://github.com/user-attachments/assets/a5eeb979-f1fc-4bcd-82c0-755bc2444d5a)
+
+![image](https://github.com/user-attachments/assets/4560a094-9d74-430c-843b-718d9e267a99)
+
+
+
+
+
+
 
